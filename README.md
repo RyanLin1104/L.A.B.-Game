@@ -1,4 +1,4 @@
-[![Download Game](https://img.shields.io/badge/Download-Play_Now-blue?style=for-the-badge&logo=windows)](https://github.com/AverageAsianDudes/L.A.B.-Game/releases/latest)
+[![Download Game](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=windows)](https://github.com/RyanLin1104/L.A.B.-Game/releases/latest)
 
 ---
 # L.A.B.-Game
